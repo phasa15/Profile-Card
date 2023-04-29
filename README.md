@@ -34,9 +34,9 @@ Esta é uma solução para o [Profile card component challenge on Frontend Mento
 
 ### Links
 
-- URL da Solução: [https://www.frontendmentor.io/solutions/profile-card-component](https://www.frontendmentor.io/solutions/profile-card-component)
-- Live Site URL: [https://.github.io/profile-card-component/](https:/.github.io/profile-card-component/)
-- URL do código no GitHub: [https://.github.io/profile-card-component/](https:/.github.io/profile-card-component/)
+- [URL da Solução no frontendmentor](https://www.frontendmentor.io/solutions/profile-card-component-0krupiuhO_)
+- [Live Site URL](https://phasa15.github.io/Profile-Card/)
+- [URL do código no GitHub](https://github.com/phasa15/Profile-Card)
 
 ## Meu processo
 

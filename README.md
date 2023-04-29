@@ -45,7 +45,7 @@ Esta é uma solução para o [Profile card component challenge on Frontend Mento
 - HTML5 semântico
 - Propriedades personalizadas do CSS
 - Flexbox
-- Fluxo de trabalho móvel primeiro
+- Fluxo de trabalho pensando no mobile primeiro
 
 ## Autor
 

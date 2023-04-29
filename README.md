@@ -24,13 +24,13 @@ Esta é uma solução para o [Profile card component challenge on Frontend Mento
 
 #### Mobile
 
-![Screenshot of the mobile solution to the Profile card component coding challenge](../src/screenshots/iPhone-XR-414x896.png)
+![Screenshot of the mobile solution to the Profile card component coding challenge](./src/screenshots/iPhone-XR-414x896.png)
 
-![Screenshot of the mobile solution to the Profile card component coding challenge](../src/screenshots/iPad-768x1024.png)
+![Screenshot of the mobile solution to the Profile card component coding challenge](./src/screenshots/iPad-768x1024.png)
 
 #### Desktop
 
-![Screenshot of the desktop solution to the Profile card component coding challenge](../src/screenshots/Laptop-1440x900.png)
+![Screenshot of the desktop solution to the Profile card component coding challenge](./src/screenshots/Laptop-1440x900.png)
 
 ### Links
 

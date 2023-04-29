@@ -4,13 +4,13 @@ Esta é uma solução para o [Profile card component challenge on Frontend Mento
 
 ## Table of contents
 
-- [Visão geral](#overview)
-  - [O desafio](#the-challenge)
+- [Visão geral](#Visão-geral)
+  - [O desafio](#O-desafio)
   - [Screenshot](#screenshot)
     - [Mobile](#mobile)
     - [Desktop](#desktop)
   - [Links](#links)
-- [Meu processo](#my-process)
+- [Meu processo](#meu-processo)
   - [Construído com](#construído-com)
 - [Autor](#Autor)
 

@@ -12,7 +12,7 @@ Esta é uma solução para o [Profile card component challenge on Frontend Mento
   - [Links](#links)
 - [Meu processo](#my-process)
   - [Construído com](#built-with)
-- [Autor](#author)
+- [Autor](#Autor)
 
 ## Visão geral
 

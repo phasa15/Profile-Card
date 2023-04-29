@@ -1,0 +1,7 @@
+:root {
+    --color-card: rgb(255, 255, 255);
+    --color-body: hsl(185, 75%, 39%);
+    --color-word-dark: hsl(229, 23%, 23%);
+    --color-word-lite: hsl(227, 10%, 46%);
+    --color-line: hsla(0, 0%, 59%, 0.507);
+}

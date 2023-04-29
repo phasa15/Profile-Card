@@ -1,0 +1,80 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: var(--color-body);
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: var(--color-word-lite);
+}
+
+.card {
+    height: 375px;
+    width: 325px;
+    background-color: var(--color-card);
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.picture {
+    width: 100%;
+    height: 138px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    background: url(../images/bg-pattern-card.svg) no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.picture .image {
+    position: absolute;
+    border-radius: 100%;
+    border: solid 5px var(--color-card);
+    bottom: -39%;
+}
+
+.text-evidence{
+    font-weight: 700;
+    color: var(--color-word-dark);
+}
+
+.informations {
+    margin-top: 35px;
+    text-align: center;
+}
+
+.informations .name-age {
+    display: flex;
+    gap: 9px;
+}
+
+.informations .location {
+    margin-top: 8px;
+    font-size: 14px;
+}
+
+.social-media {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    border-top: solid 1px var(--color-line);
+    height: 75px;
+    text-align: center;
+
+}
+
+.social-media .value {
+    margin-top: 10px;
+}
+
+.social-media .value-type {
+    margin-top: 4px;
+    font-size: 12px;
+}

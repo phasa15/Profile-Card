@@ -11,7 +11,7 @@ Esta é uma solução para o [Profile card component challenge on Frontend Mento
     - [Desktop](#desktop)
   - [Links](#links)
 - [Meu processo](#my-process)
-  - [Construído com](#built-with)
+  - [Construído com](#construído-com)
 - [Autor](#Autor)
 
 ## Visão geral
